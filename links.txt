@@ -1,0 +1,14 @@
+https://www.techbeamers.com/sql-query-questions-answers-for-practice/
+
+https://blog.devgenius.io/15-practical-exercises-help-you-master-java-stream-api-3f9c86b1cf82
+
+https://www.java67.com/2014/04/java-8-stream-examples-and-tutorial.html
+
+Create sample and push
+Immutable class (having list, mutable object as attribute) example, 
+Singleton class (covering all edge cases like thread issue,cloneable,serialization), 
+Cloneable (shallow and deep copy) Example
+
+
+https://leetcode.com/problemset/all/?difficulty=EASY&page=1
+
