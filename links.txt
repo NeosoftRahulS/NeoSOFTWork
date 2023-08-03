@@ -12,3 +12,12 @@ Cloneable (shallow and deep copy) Example
 
 https://leetcode.com/problemset/all/?difficulty=EASY&page=1
 
+
+Topics:
+-------
+Exception Handling for different cases for checked exceptions
+Create custom exception (checked and unchecked)
+How to make object eligible for garbage collection
+Multithreading Create thread (using runnable, thread), create daemon thread, Use notify,notify all,sleep,wait,use thread local variable,use volatile variable, Synchronization and semaphore sample
+
+
